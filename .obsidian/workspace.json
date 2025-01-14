@@ -4,6 +4,28 @@
     "type": "split",
     "children": [
       {
+        "id": "b7e240a9e53e3104",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2284aca18b4afe15",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "1-PDFs/The Economist-11.01.2025.pdf",
+                "page": 123,
+                "left": -21,
+                "top": 140,
+                "zoom": 0.7254901960784313
+              },
+              "icon": "lucide-file-text",
+              "title": "The Economist-11.01.2025"
+            }
+          }
+        ]
+      },
+      {
         "id": "26e4582770431041",
         "type": "tabs",
         "children": [
@@ -11,17 +33,14 @@
             "id": "fd504e43adb6dbbb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "3-假期考研规划/计划白板.canvas",
-                "viewState": {
-                  "x": -120,
-                  "y": -305,
-                  "zoom": -0.46293756213883264
-                }
+                "file": "2-摘录与笔记/The Economist-4.01.2025/@The Economist-4.01.2025-标记汇总.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "计划白板"
+              "icon": "lucide-file",
+              "title": "@The Economist-4.01.2025-标记汇总"
             }
           }
         ]
@@ -198,15 +217,16 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "fd504e43adb6dbbb",
+  "active": "dd8c72fc438882f6",
   "lastOpenFiles": [
-    "2-摘录与笔记/未命名.canvas",
-    "3-假期考研规划/计划白板.canvas",
-    "2-摘录与笔记/The Economist-11.01.2025/@The Economist-11.01.2025-标记汇总.md",
+    "新建文件夹",
     "2-摘录与笔记/The Economist-4.01.2025/@The Economist-4.01.2025-标记汇总.md",
+    "1-PDFs/The Economist-11.01.2025.pdf",
+    "3-假期考研规划/计划白板.canvas",
+    "2-摘录与笔记/未命名.canvas",
+    "2-摘录与笔记/The Economist-11.01.2025/@The Economist-11.01.2025-标记汇总.md",
     "3-假期考研规划/英语.md",
     "Pasted image 20250114210538.png",
-    "1-PDFs/The Economist-11.01.2025.pdf",
     "1-PDFs/The Economist-4.01.2025.pdf",
     "2-摘录与笔记/The Economist-7.12.2024/@The Economist-7.12.2024-标记汇总.md",
     "1-PDFs/The Economist-7.12.2024.pdf",
