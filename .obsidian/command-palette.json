@@ -1,0 +1,7 @@
+{
+  "pinned": [
+    "pdf-plus:create-dummy",
+    "pdf-plus:create-new-note",
+    "note-refactor-obsidian:app:split-note-by-heading-h3"
+  ]
+}
