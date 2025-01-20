@@ -2,7 +2,7 @@
   "calendarSources": [
     {
       "type": "local",
-      "color": "#fe62f1",
+      "color": "#a8349e",
       "directory": "0-calendar"
     }
   ],

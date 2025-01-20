@@ -4,43 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "b7e240a9e53e3104",
+        "id": "d69b6c59465a8a8b",
         "type": "tabs",
+        "dimension": 38.89751552795031,
         "children": [
           {
-            "id": "2284aca18b4afe15",
+            "id": "b9500926c7987b87",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "1-PDFs/The Economist-11.01.2025.pdf",
-                "page": 123,
-                "left": -21,
-                "top": 140,
-                "zoom": 0.7254901960784313
+                "file": "1-PDFs/The Economist-18.01.2025.pdf",
+                "page": 23,
+                "left": -67,
+                "top": 756,
+                "zoom": 0.19056372549019607
               },
               "icon": "lucide-file-text",
-              "title": "The Economist-11.01.2025"
+              "title": "The Economist-18.01.2025"
             }
           }
         ]
       },
       {
-        "id": "26e4582770431041",
+        "id": "c1f0dcb8ebabf017",
         "type": "tabs",
+        "dimension": 61.10248447204969,
         "children": [
           {
-            "id": "fd504e43adb6dbbb",
+            "id": "e58398021ead4c06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-摘录与笔记/The Economist-4.01.2025/@The Economist-4.01.2025-标记汇总.md",
-                "mode": "source",
+                "file": "2-摘录与笔记/The Economist-18.01.2025/@The Economist-18.01.2025-标记汇总.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@The Economist-4.01.2025-标记汇总"
+              "title": "@The Economist-18.01.2025-标记汇总"
             }
           }
         ]
@@ -74,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#长难句",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-摘录与笔记/The Economist-4.01.2025/@The Economist-4.01.2025-标记汇总.md",
+                "file": "2-摘录与笔记/The Economist-18.01.2025/@The Economist-18.01.2025-标记汇总.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "@The Economist-4.01.2025-标记汇总 的反向链接列表"
+              "title": "@The Economist-18.01.2025-标记汇总 的反向链接列表"
             }
           },
           {
@@ -192,14 +194,23 @@
               "icon": "lucide-info",
               "title": "@The Economist-4.01.2025-标记汇总的笔记属性"
             }
+          },
+          {
+            "id": "8cfb8004d96ab6d6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 356,
-    "collapsed": true
+    "width": 356
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,50 +225,51 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd8c72fc438882f6",
+  "active": "e58398021ead4c06",
   "lastOpenFiles": [
+    "1-PDFs/The Economist-18.01.2025.pdf",
+    "2-摘录与笔记/The Economist-18.01.2025/@The Economist-18.01.2025-标记汇总.md",
+    "1-PDFs/The Economist-11.01.2025.pdf",
+    "3-假期考研规划/英语.md",
+    "0-calendar/2025-01-20 单词.md",
+    "0-calendar/2025-01-20 长难句.md",
+    "0-calendar/2025-01-20 外刊.md",
+    "3-假期考研规划/计划白板.canvas",
+    "0-calendar/2025-01-19 背单词.md",
+    "0-calendar/2025-01-19 英语单词复习.md",
+    "2-摘录与笔记/The Economist-4.01.2025/@The Economist-4.01.2025-标记汇总.md",
+    "2-摘录与笔记/The Economist-11.01.2025/@The Economist-11.01.2025-标记汇总.md",
+    "2-摘录与笔记/The Economist-18.01.2025",
+    "0-calendar/2025-01-18 填写完英语！.md",
+    "0-calendar/2025-01-18 单词.md",
+    "0-calendar/2025-01-19 复习英语.md",
+    "0-calendar/2025-01-18 整理外刊.md",
+    "1-PDFs/The Economist-4.01.2025.pdf",
+    "0-calendar/2025-01-17 英语单词.md",
+    "0-calendar/2025-01-17 外刊.md",
+    "0-calendar/2025-01-16 填写考研规划英语.md",
+    "0-calendar/2025-01-16 外刊.md",
+    "sad.md",
+    "README.md",
+    "2-摘录与笔记/The Economist-11.01.2025/未命名.md",
+    "0-calendar/2025-01-15 英语单词1.md",
     "hh",
     "新建文件夹",
-    "README.md",
-    "2-摘录与笔记/The Economist-4.01.2025/@The Economist-4.01.2025-标记汇总.md",
-    "1-PDFs/The Economist-11.01.2025.pdf",
-    "3-假期考研规划/计划白板.canvas",
     "2-摘录与笔记/未命名.canvas",
-    "2-摘录与笔记/The Economist-11.01.2025/@The Economist-11.01.2025-标记汇总.md",
-    "3-假期考研规划/英语.md",
     "Pasted image 20250114210538.png",
-    "1-PDFs/The Economist-4.01.2025.pdf",
     "2-摘录与笔记/The Economist-7.12.2024/@The Economist-7.12.2024-标记汇总.md",
     "1-PDFs/The Economist-7.12.2024.pdf",
     "1-PDFs/The Economist-7.12.2024.md",
     "2-摘录与笔记/The Economist-7.12.2024",
     "1-PDFs/The Economist-11.01.2025.md",
     "0-辅助/Templates/PDF-标记汇总.md",
-    "0-calendar/2025-01-14 外刊整理.md",
-    "0-calendar/2025-01-14 英语单词.md",
-    "0-calendar/2025-01-15 英语单词.md",
-    "0-calendar/2025-01-15 外刊.md",
-    "0-calendar/2025-01-15 填写考研规划-英语.md",
-    "0-辅助/Templates/假期考研规划.md",
     "3-假期考研规划",
-    "PDF-阅读库使用说明.md",
     "0-calendar",
-    "2025-W03.md",
-    "2-摘录与笔记/The Economist-11.01.2025",
-    "2-摘录与笔记/The Economist-4.01.2025",
-    "1-PDFs/2023我与IOTO.pdf",
-    "2-摘录与笔记/我与IOTO/20240619212145.md",
-    "OB-PDF.md",
-    "2-摘录与笔记/JamesClear的文章/20240620213406.md",
-    "2-摘录与笔记/JamesClear的文章/20240620162549.md",
-    "2-摘录与笔记/JamesClear的文章/@JamesClear文章-笔记汇总.md",
-    "2-摘录与笔记/JamesClear的文章/20240619215721.md",
-    "2-摘录与笔记/JamesClear的文章/20240619215533.md",
-    "2-摘录与笔记/JamesClear的文章/20240619215422.md",
-    "2-摘录与笔记/JamesClear的文章/20240619215208.md",
     "未命名.canvas",
     "那些躲不开又想不通的行为.webp",
     "OB基本知识.canvas",

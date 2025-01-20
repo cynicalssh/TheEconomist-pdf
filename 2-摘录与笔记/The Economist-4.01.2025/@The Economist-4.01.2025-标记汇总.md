@@ -5,7 +5,7 @@ PDF: "[[1-PDFs/The Economist-4.01.2025.pdf|The Economist-4.01.2025]]"
 ### 20250113
 #好句式 Nordic countries have long been considered exemplars of good public policy
 [[The Economist-4.01.2025.pdf#page=19&selection=9,0,10,6&color=好句式|p.19]]
-
+>
 
 
 ### 20250113
@@ -76,7 +76,7 @@ adj.不乐观的，无望的；无遮掩的，荒凉的；阴冷的，寒冷的�
 ### 20250114
 #长难句 The report’s most shocking revelation is that the number of homeless people in families with children rose 39% year-on-year—a reversal of a slow but steady decline in the years preceding the covid-19 pandemic. 
 [[The Economist-4.01.2025.pdf#page=58&selection=2,44,5,33&color=长难句|p.58]]
-
+>
 ### 20250114
 #好句式 disasters that displaced people
 [[The Economist-4.01.2025.pdf#page=58&selection=7,49,8,5&color=好句式|p.58]]
@@ -85,7 +85,7 @@ adj.不乐观的，无望的；无遮掩的，荒凉的；阴冷的，寒冷的�
 ### 20250114
 #生词  landlord
 [[The Economist-4.01.2025.pdf#page=58&selection=20,9,22,15&color=生词|p.58]]
-
+>
 ### 20250114
 #长难句 When migrants arrived by the thousands in cities far from the southern border they burdened already crowded shelter systems. 
 [[The Economist-4.01.2025.pdf#page=59&selection=0,0,14,1&color=长难句|p.59]]

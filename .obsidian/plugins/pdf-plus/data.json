@@ -47,7 +47,7 @@
     },
     {
       "name": "读书标注",
-      "template": "### {{moment().format(\"YYYYMMDD\")}}\n#{{color}} {{text}}\n{{linkWithDisplay}}\n\n>"
+      "template": "### {{moment().format(\"YYYYMMDD\")}}\n#{{color}} {{text}}\n{{linkWithDisplay}}\n>"
     }
   ],
   "useAnotherCopyTemplateWhenNoSelection": false,
@@ -281,7 +281,7 @@
   "preserveCurrentLeftOffsetWhenOpenPDFLink": false,
   "defaultZoomValue": "page-width",
   "scrollModeOnLoad": 0,
-  "spreadModeOnLoad": 0,
+  "spreadModeOnLoad": 1,
   "hoverableDropdownMenuInToolbar": true,
   "zoomLevelInputBoxInToolbar": true,
   "popoverPreviewOnExternalLinkHover": true,

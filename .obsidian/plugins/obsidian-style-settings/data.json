@@ -37,5 +37,10 @@
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-mauve",
   "anuppuccin-theme-settings@@anp-colorful-frame": true,
   "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-light": false,
-  "anuppuccin-theme-settings@@anp-collapse-folders": false
+  "anuppuccin-theme-settings@@anp-collapse-folders": false,
+  "minimal-style@@pdf-dark-opacity": 0.9,
+  "minimal-style@@pdf-page-style": "pdf-seamless-on",
+  "anuppuccin-theme-settings@@anp-pdf-blend-toggle-light": false,
+  "anuppuccin-theme-settings@@anp-pdf-blend-toggle-dark": false,
+  "pdf-plus@@pdf-plus-highlight-opacity": 0.2
 }
