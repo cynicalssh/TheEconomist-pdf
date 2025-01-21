@@ -12,16 +12,14 @@
             "id": "b9500926c7987b87",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "1-PDFs/The Economist-18.01.2025.pdf",
-                "page": 183,
-                "left": 169,
-                "top": 654,
-                "zoom": 0.9
+                "file": "3-假期考研规划/英语.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "The Economist-18.01.2025"
+              "icon": "lucide-file",
+              "title": "英语"
             }
           }
         ]
@@ -222,15 +220,16 @@
   },
   "active": "b9500926c7987b87",
   "lastOpenFiles": [
-    "2-摘录与笔记/The Economist-18.01.2025/@The Economist-18.01.2025-标记汇总.md",
+    "README.md",
+    "3-假期考研规划/计划白板.canvas",
     "1-PDFs/The Economist-18.01.2025.pdf",
+    "2-摘录与笔记/The Economist-18.01.2025/@The Economist-18.01.2025-标记汇总.md",
     "2-摘录与笔记/The Economist-4.01.2025/@The Economist-4.01.2025-标记汇总.md",
     "1-PDFs/The Economist-11.01.2025.pdf",
     "3-假期考研规划/英语.md",
     "0-calendar/2025-01-20 单词.md",
     "0-calendar/2025-01-20 长难句.md",
     "0-calendar/2025-01-20 外刊.md",
-    "3-假期考研规划/计划白板.canvas",
     "0-calendar/2025-01-19 背单词.md",
     "0-calendar/2025-01-19 英语单词复习.md",
     "2-摘录与笔记/The Economist-11.01.2025/@The Economist-11.01.2025-标记汇总.md",
@@ -245,7 +244,6 @@
     "0-calendar/2025-01-16 填写考研规划英语.md",
     "0-calendar/2025-01-16 外刊.md",
     "sad.md",
-    "README.md",
     "2-摘录与笔记/The Economist-11.01.2025/未命名.md",
     "0-calendar/2025-01-15 英语单词1.md",
     "hh",
