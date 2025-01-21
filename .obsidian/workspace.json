@@ -6,7 +6,7 @@
       {
         "id": "d69b6c59465a8a8b",
         "type": "tabs",
-        "dimension": 38.89751552795031,
+        "dimension": 72.32496697490093,
         "children": [
           {
             "id": "b9500926c7987b87",
@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "1-PDFs/The Economist-18.01.2025.pdf",
-                "page": 23,
-                "left": -67,
-                "top": 756,
-                "zoom": 0.19056372549019607
+                "page": 183,
+                "left": 169,
+                "top": 654,
+                "zoom": 0.9
               },
               "icon": "lucide-file-text",
               "title": "The Economist-18.01.2025"
@@ -27,9 +27,9 @@
         ]
       },
       {
-        "id": "c1f0dcb8ebabf017",
+        "id": "03ce616e9687c79b",
         "type": "tabs",
-        "dimension": 61.10248447204969,
+        "dimension": 27.675033025099072,
         "children": [
           {
             "id": "e58398021ead4c06",
@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "2-摘录与笔记/The Economist-18.01.2025/@The Economist-18.01.2025-标记汇总.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -194,23 +194,14 @@
               "icon": "lucide-info",
               "title": "@The Economist-4.01.2025-标记汇总的笔记属性"
             }
-          },
-          {
-            "id": "8cfb8004d96ab6d6",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 356
+    "width": 356,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,14 +217,14 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "remotely-save:Remotely Save": false,
-      "obsidian-git:Open Git source control": false
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "e58398021ead4c06",
+  "active": "b9500926c7987b87",
   "lastOpenFiles": [
-    "1-PDFs/The Economist-18.01.2025.pdf",
     "2-摘录与笔记/The Economist-18.01.2025/@The Economist-18.01.2025-标记汇总.md",
+    "1-PDFs/The Economist-18.01.2025.pdf",
+    "2-摘录与笔记/The Economist-4.01.2025/@The Economist-4.01.2025-标记汇总.md",
     "1-PDFs/The Economist-11.01.2025.pdf",
     "3-假期考研规划/英语.md",
     "0-calendar/2025-01-20 单词.md",
@@ -242,7 +233,6 @@
     "3-假期考研规划/计划白板.canvas",
     "0-calendar/2025-01-19 背单词.md",
     "0-calendar/2025-01-19 英语单词复习.md",
-    "2-摘录与笔记/The Economist-4.01.2025/@The Economist-4.01.2025-标记汇总.md",
     "2-摘录与笔记/The Economist-11.01.2025/@The Economist-11.01.2025-标记汇总.md",
     "2-摘录与笔记/The Economist-18.01.2025",
     "0-calendar/2025-01-18 填写完英语！.md",

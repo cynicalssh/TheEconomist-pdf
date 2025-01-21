@@ -54,4 +54,21 @@ PDF: "[[1-PDFs/The Economist-18.01.2025.pdf|The Economist-18.01.2025]]"
 ### 20250120
 #生词 sanction
 [[The Economist-18.01.2025.pdf#page=22&selection=32,46,32,55&color=生词|p.22]]
+>
 
+![[The Economist-18.01.2025.pdf#page=182&rect=89,277,510,513|p.182]]
+
+### 20250121
+#生词 teeter
+[[The Economist-18.01.2025.pdf#page=183&selection=17,16,17,22&color=生词|p.183]]
+>
+
+### 20250121
+#生词 reassuring 
+[[The Economist-18.01.2025.pdf#page=183&selection=31,48,31,59&color=生词|p.183]]
+>
+
+### 20250121
+#生词 menacing
+[[The Economist-18.01.2025.pdf#page=184&selection=6,0,6,8&color=生词|p.184]]
+>
