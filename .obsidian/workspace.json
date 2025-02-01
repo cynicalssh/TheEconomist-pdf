@@ -4,43 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d69b6c59465a8a8b",
+        "id": "f542a04576c64075",
         "type": "tabs",
-        "dimension": 72.32496697490093,
         "children": [
           {
-            "id": "b9500926c7987b87",
+            "id": "c22f3585cbeb6cd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-假期考研规划/英语.md",
+                "file": "0-辅助/calendar/2025-02-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "英语"
-            }
-          }
-        ]
-      },
-      {
-        "id": "03ce616e9687c79b",
-        "type": "tabs",
-        "dimension": 27.675033025099072,
-        "children": [
-          {
-            "id": "e58398021ead4c06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-摘录与笔记/The Economist-18.01.2025/@The Economist-18.01.2025-标记汇总.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "@The Economist-18.01.2025-标记汇总"
+              "title": "2025-02-01"
             }
           }
         ]
@@ -62,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -74,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#长难句",
+                "query": "stem",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,12 +73,34 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "1e77e3d59d1afa4a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "af251b2e656d6921",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer-history",
+              "state": {},
+              "icon": "lucide-clock",
+              "title": "Web history"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 227.00469589233398
+    "width": 227.00469589233398,
+    "collapsed": true
   },
   "right": {
     "id": "128c55eacc93ffde",
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-摘录与笔记/The Economist-18.01.2025/@The Economist-18.01.2025-标记汇总.md",
+                "file": "0-辅助/calendar/2025-02-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "@The Economist-18.01.2025-标记汇总 的反向链接列表"
+              "title": "2025-02-01 的反向链接列表"
             }
           },
           {
@@ -134,12 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-摘录与笔记/The Economist-11.01.2025/@The Economist-11.01.2025-标记汇总.md",
-                "linksCollapsed": false,
+                "file": "0-辅助/calendar/2025-02-01.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "@The Economist-11.01.2025-标记汇总 的出链列表"
+              "title": "2025-02-01 的出链列表"
             }
           },
           {
@@ -149,7 +150,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "标签"
@@ -161,10 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-摘录与笔记/The Economist-11.01.2025/@The Economist-11.01.2025-标记汇总.md"
+                "file": "0-辅助/calendar/2025-02-01.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "@The Economist-11.01.2025-标记汇总 的大纲"
+              "title": "2025-02-01 的大纲"
             }
           },
           {
@@ -194,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,71 +209,71 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "workspaces:管理工作区布局": false,
+      "pdf-plus:PDF++: Toggle auto-paste": true,
+      "zk-prefixer:创建时间戳笔记": false,
       "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
       "templater-obsidian:Templater": false,
+      "workspaces:管理工作区布局": false,
       "templates:插入模板": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "pdf-plus:PDF++: Toggle auto-copy": true,
+      "pdf-plus:PDF++: Toggle auto-focus": true,
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "b9500926c7987b87",
+  "active": "c22f3585cbeb6cd5",
   "lastOpenFiles": [
-    "README.md",
-    "3-假期考研规划/计划白板.canvas",
-    "1-PDFs/The Economist-18.01.2025.pdf",
-    "2-摘录与笔记/The Economist-18.01.2025/@The Economist-18.01.2025-标记汇总.md",
-    "2-摘录与笔记/The Economist-4.01.2025/@The Economist-4.01.2025-标记汇总.md",
-    "1-PDFs/The Economist-11.01.2025.pdf",
-    "3-假期考研规划/英语.md",
-    "0-calendar/2025-01-20 单词.md",
-    "0-calendar/2025-01-20 长难句.md",
-    "0-calendar/2025-01-20 外刊.md",
-    "0-calendar/2025-01-19 背单词.md",
-    "0-calendar/2025-01-19 英语单词复习.md",
-    "2-摘录与笔记/The Economist-11.01.2025/@The Economist-11.01.2025-标记汇总.md",
-    "2-摘录与笔记/The Economist-18.01.2025",
-    "0-calendar/2025-01-18 填写完英语！.md",
-    "0-calendar/2025-01-18 单词.md",
-    "0-calendar/2025-01-19 复习英语.md",
-    "0-calendar/2025-01-18 整理外刊.md",
-    "1-PDFs/The Economist-4.01.2025.pdf",
-    "0-calendar/2025-01-17 英语单词.md",
-    "0-calendar/2025-01-17 外刊.md",
-    "0-calendar/2025-01-16 填写考研规划英语.md",
-    "0-calendar/2025-01-16 外刊.md",
-    "sad.md",
-    "2-摘录与笔记/The Economist-11.01.2025/未命名.md",
-    "0-calendar/2025-01-15 英语单词1.md",
-    "hh",
-    "新建文件夹",
-    "2-摘录与笔记/未命名.canvas",
-    "Pasted image 20250114210538.png",
-    "2-摘录与笔记/The Economist-7.12.2024/@The Economist-7.12.2024-标记汇总.md",
-    "1-PDFs/The Economist-7.12.2024.pdf",
-    "1-PDFs/The Economist-7.12.2024.md",
-    "2-摘录与笔记/The Economist-7.12.2024",
-    "1-PDFs/The Economist-11.01.2025.md",
+    "3-📕英语一/知识点📒/介词提前的定语从句.md",
+    "1-📰PDF摘录与笔记/The Economist-25.01.2025/@TheEconomist-25.01.2025-标记汇总.md",
+    "3-📕英语一/知识点📒/rather,rather than,instead of.md",
+    "1-📰PDF/TheEconomist-25.01.2025.pdf",
+    "3-📕英语一/纠错集📒/2005年英一纠错.md",
+    "{{ file.path }}.md",
     "0-辅助/Templates/PDF-标记汇总.md",
-    "3-假期考研规划",
-    "0-calendar",
+    "2-⌚假期考研规划/复习规划.canvas",
+    "0-辅助/calendar/2025-02-01.md",
+    "2025-02-01.md",
+    "1-📰PDF摘录与笔记/The Economist-11.01.2025/@The Economist-11.01.2025-标记汇总.md",
+    "1-📰PDF摘录与笔记/The Economist-18.01.2025/@The Economist-18.01.2025-标记汇总.md",
+    "1-📰PDF/The Economist-11.01.2025.pdf",
+    "2-⌚假期考研规划/英语.md",
+    "0-辅助/calendar/2025-02-02.md",
+    "3-📕英语一/知识点📒/英语的连词.md",
+    "1-📰PDF摘录与笔记/The Economist-4.01.2025/@The Economist-4.01.2025-标记汇总.md",
+    "0-辅助/网页收集",
+    "0-辅助/calendar/2025-01-30 长难句.md",
+    "0-辅助/calendar/2025-01-31.md",
+    "0-辅助/pictures/Pasted image 20250126201138.png",
+    "2025-1-31.md",
+    "3-📕英语一/每日长难句📒/202501312115.md",
+    "0-辅助/pictures/Pasted image 20250127093032.png",
+    "0-辅助/pictures/Pasted image 20250127094454.png",
+    "0-辅助/pictures/Pasted image 20250127095450.png",
+    "0-辅助/pictures/Pasted image 20250127102515.png",
+    "0-辅助/pictures/Pasted image 20250127105812.png",
+    "3-📕英语一/真题pdf📰/2010-2021年考研英语一真题合集.pdf",
+    "1-📰PDF/The Economist-4.01.2025.pdf",
+    "3-📕英语一/真题pdf📰/1998-2009年考研英语真题合集.pdf",
+    "0-辅助/calendar/2025-01-30.md",
+    "0-辅助/calendar",
+    "0-辅助",
+    "0-辅助/calendar/2025-02-03.md",
+    "0-辅助/Templates/日历模板.md",
+    "3-📕英语一/每日长难句📒",
+    "1-📰PDF摘录与笔记/The Economist-25.01.2025/@The Economist-18.01.2025-标记汇总.md",
+    "1-📰PDF摘录与笔记/The Economist-25.01.2025",
+    "0-辅助/calendar/2025-01-31 YouTube.md",
+    "0-辅助/calendar/2025-01-31 长难句12.md",
+    "0-辅助/calendar/2025-01-31 外刊.md",
+    "0-辅助/pictures/Pasted image 20250127095138.png",
+    "0-辅助/pictures/Pasted image 20250127094148.png",
+    "Pasted image 20250126200903.png",
+    "Pasted image 20250126200854.png",
+    "2-摘录与笔记/未命名.canvas",
     "未命名.canvas",
-    "那些躲不开又想不通的行为.webp",
-    "OB基本知识.canvas",
-    "0-辅助/IOTO/Help/Images/Pasted image 20230728151207.png",
-    "0-辅助/IOTO/Help/Images/Pasted image 20230728154107.png",
-    "2-输出/3-绘图脑图/Drawings/IOTO文件夹结构逻辑平面演示图.excalidraw.png",
-    "2-输出/3-绘图脑图/Drawings/IOTO文件夹结构逻辑平面演示图.excalidraw.svg",
-    "0-辅助/IOTO/Help/Images/Pasted image 20230728151309.png",
-    "0-辅助/IOTO/Help/Images/Pasted image 20230728152511.png",
-    "0-辅助/IOTO/Help/Images/Pasted image 20230728155459.png",
-    "0-辅助/IOTO/Help/Images/Pasted image 20230728152406.png"
+    "OB基本知识.canvas"
   ]
 }

@@ -59,5 +59,48 @@
       ],
       "key": "U"
     }
-  ]
+  ],
+  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "markdown:toggle-preview": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "workspace:close": [],
+  "webviewer:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "W"
+    }
+  ],
+  "workspace:edit-file-title": [],
+  "editor:insert-link": [],
+  "app:open-help": [],
+  "bookmarks:open": [
+    {
+      "modifiers": [],
+      "key": "F1"
+    }
+  ],
+  "webviewer:open-history": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "1"
+    }
+  ],
+  "workspace:goto-tab-1": []
 }

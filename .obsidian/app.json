@@ -1,5 +1,5 @@
 {
-  "showInlineTitle": false,
+  "showInlineTitle": true,
   "newFileLocation": "current",
   "showUnsupportedFiles": true,
   "promptDelete": false,
@@ -11,6 +11,7 @@
     "downscalePercent": 100
   },
   "propertiesInDocument": "hidden",
-  "showRibbon": true,
-  "trashOption": "local"
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "0-辅助/pictures"
 }

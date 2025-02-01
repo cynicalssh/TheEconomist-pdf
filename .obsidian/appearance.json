@@ -4,6 +4,7 @@
   "enabledCssSnippets": [
     "JL-PDF-Reader"
   ],
-  "theme": "moonstone",
-  "baseFontSize": 20
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "showRibbon": true
 }

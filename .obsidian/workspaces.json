@@ -1,272 +1,50 @@
 {
   "workspaces": {
-    "reading": {
+    "2005": {
       "main": {
         "id": "324e2b7a0a2aed88",
         "type": "split",
         "children": [
           {
-            "id": "04cbb4b4bb6b82bf",
+            "id": "68ec0d1f0700f128",
             "type": "tabs",
+            "dimension": 78.20343461030383,
             "children": [
               {
-                "id": "35c3e7fa7aa9c8e9",
+                "id": "384603afea4e7757",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "1-PDFs/The Economist-4.01.2025.pdf",
-                    "page": 106,
-                    "left": -21,
-                    "top": 506,
-                    "zoom": 0.7254901960784313
+                    "file": "3-📕英语一/真题/1998-2009年考研英语真题合集.pdf",
+                    "page": 110,
+                    "left": 61,
+                    "top": 12,
+                    "zoom": 0.9
                   },
                   "icon": "lucide-file-text",
-                  "title": "The Economist-4.01.2025"
+                  "title": "1998-2009年考研英语真题合集"
                 }
               }
             ]
           },
           {
-            "id": "b3314e09e4d8c421",
+            "id": "38d446ec2f96c3d6",
             "type": "tabs",
+            "dimension": 21.79656538969617,
             "children": [
               {
-                "id": "64efe0d4b31ec78b",
+                "id": "a0ea7a2da512bad5",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2-摘录与笔记/The Economist-4.01.2025/@The Economist-4.01.2025-标记汇总.md",
+                    "file": "3-📕英语一/纠错集/2005年英一纠错.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "@The Economist-4.01.2025-标记汇总"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical"
-      },
-      "left": {
-        "id": "9f3c145813b44c60",
-        "type": "split",
-        "children": [
-          {
-            "id": "f957f74ea5e4fa9a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "dd8c72fc438882f6",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {
-                    "sortOrder": "alphabetical"
-                  },
-                  "icon": "lucide-folder-closed",
-                  "title": "文件列表"
-                }
-              },
-              {
-                "id": "da0db952287911d9",
-                "type": "leaf",
-                "state": {
-                  "type": "search",
-                  "state": {
-                    "query": "",
-                    "matchingCase": false,
-                    "explainSearch": false,
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical"
-                  },
-                  "icon": "lucide-search",
-                  "title": "搜索"
-                }
-              },
-              {
-                "id": "6ed2f1edbbaa8377",
-                "type": "leaf",
-                "state": {
-                  "type": "bookmarks",
-                  "state": {},
-                  "icon": "lucide-bookmark",
-                  "title": "书签"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 227.00469589233398
-      },
-      "right": {
-        "id": "128c55eacc93ffde",
-        "type": "split",
-        "children": [
-          {
-            "id": "a0ce31a991c18e01",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "55ef978f5cc6ed6f",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "2-摘录与笔记/The Economist-4.01.2025/@The Economist-4.01.2025-标记汇总.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-coming-in",
-                  "title": "@The Economist-4.01.2025-标记汇总 的反向链接列表"
-                }
-              },
-              {
-                "id": "fd7dcdd756b8fe14",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "file": "2-摘录与笔记/The Economist-11.01.2025/@The Economist-11.01.2025-标记汇总.md",
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-going-out",
-                  "title": "@The Economist-11.01.2025-标记汇总 的出链列表"
-                }
-              },
-              {
-                "id": "6fd3f438d60509c5",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true
-                  },
-                  "icon": "lucide-tags",
-                  "title": "标签"
-                }
-              },
-              {
-                "id": "8078386359a20deb",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "2-摘录与笔记/The Economist-11.01.2025/@The Economist-11.01.2025-标记汇总.md"
-                  },
-                  "icon": "lucide-list",
-                  "title": "@The Economist-11.01.2025-标记汇总 的大纲"
-                }
-              },
-              {
-                "id": "b1a75f34ecf5ef84",
-                "type": "leaf",
-                "state": {
-                  "type": "all-properties",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-archive",
-                  "title": "添加笔记属性"
-                }
-              },
-              {
-                "id": "c14a577f887e3042",
-                "type": "leaf",
-                "state": {
-                  "type": "file-properties",
-                  "state": {
-                    "file": "2-摘录与笔记/The Economist-4.01.2025/@The Economist-4.01.2025-标记汇总.md"
-                  },
-                  "icon": "lucide-info",
-                  "title": "@The Economist-4.01.2025-标记汇总的笔记属性"
-                }
-              }
-            ],
-            "currentTab": 2
-          }
-        ],
-        "direction": "horizontal",
-        "width": 356,
-        "collapsed": true
-      },
-      "left-ribbon": {
-        "hiddenItems": {
-          "workspaces:管理工作区布局": false,
-          "switcher:打开快速切换": false,
-          "graph:查看关系图谱": false,
-          "canvas:新建白板": false,
-          "daily-notes:打开/创建今天的日记": false,
-          "command-palette:打开命令面板": false,
-          "templater-obsidian:Templater": false,
-          "templates:插入模板": false,
-          "pdf-plus:PDF++: Toggle auto-copy": false,
-          "pdf-plus:PDF++: Toggle auto-focus": false,
-          "pdf-plus:PDF++: Toggle auto-paste": false,
-          "obsidian-full-calendar:Open Full Calendar": false
-        }
-      },
-      "active": "35c3e7fa7aa9c8e9",
-      "mtime": "2025-01-14T21:19:04+08:00"
-    },
-    "0118": {
-      "main": {
-        "id": "324e2b7a0a2aed88",
-        "type": "split",
-        "children": [
-          {
-            "id": "d69b6c59465a8a8b",
-            "type": "tabs",
-            "dimension": 62.021136063408186,
-            "children": [
-              {
-                "id": "b9500926c7987b87",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "1-PDFs/The Economist-18.01.2025.pdf",
-                    "page": 1,
-                    "left": -23,
-                    "top": 798,
-                    "zoom": 0.5441176470588236
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "The Economist-18.01.2025"
-                }
-              }
-            ]
-          },
-          {
-            "id": "c1f0dcb8ebabf017",
-            "type": "tabs",
-            "dimension": 37.978863936591814,
-            "children": [
-              {
-                "id": "e58398021ead4c06",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2-摘录与笔记/The Economist-18.01.2025/@The Economist-18.01.2025-标记汇总.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "@The Economist-18.01.2025-标记汇总"
+                  "title": "2005年英一纠错"
                 }
               }
             ]
@@ -445,9 +223,233 @@
           "remotely-save:Remotely Save": false
         }
       },
-      "active": "e58398021ead4c06",
-      "mtime": "2025-01-19T11:21:01+08:00"
+      "active": "384603afea4e7757",
+      "mtime": "2025-01-30T10:48:41+08:00"
+    },
+    "25.01": {
+      "main": {
+        "id": "324e2b7a0a2aed88",
+        "type": "split",
+        "children": [
+          {
+            "id": "17a4183d88cf5678",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6371cf4fea62efb4",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "1-📰PDF/TheEconomist-25.01.2025.pdf",
+                    "page": 294,
+                    "left": -51,
+                    "top": 280,
+                    "zoom": 0.32107843137254904
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "TheEconomist-25.01.2025"
+                }
+              }
+            ]
+          },
+          {
+            "id": "e8542387458e8f8d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cfa4fbf97afabbc4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1-📰PDF摘录与笔记/The Economist-25.01.2025/@TheEconomist-25.01.2025-标记汇总.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "@TheEconomist-25.01.2025-标记汇总"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9f3c145813b44c60",
+        "type": "split",
+        "children": [
+          {
+            "id": "f957f74ea5e4fa9a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dd8c72fc438882f6",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "文件列表"
+                }
+              },
+              {
+                "id": "da0db952287911d9",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#长难句",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "搜索"
+                }
+              },
+              {
+                "id": "6ed2f1edbbaa8377",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "书签"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 227.00469589233398
+      },
+      "right": {
+        "id": "128c55eacc93ffde",
+        "type": "split",
+        "children": [
+          {
+            "id": "a0ce31a991c18e01",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "55ef978f5cc6ed6f",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "2-摘录与笔记/The Economist-18.01.2025/@The Economist-18.01.2025-标记汇总.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "@The Economist-18.01.2025-标记汇总 的反向链接列表"
+                }
+              },
+              {
+                "id": "fd7dcdd756b8fe14",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "2-摘录与笔记/The Economist-11.01.2025/@The Economist-11.01.2025-标记汇总.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "@The Economist-11.01.2025-标记汇总 的出链列表"
+                }
+              },
+              {
+                "id": "6fd3f438d60509c5",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "标签"
+                }
+              },
+              {
+                "id": "8078386359a20deb",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "2-摘录与笔记/The Economist-11.01.2025/@The Economist-11.01.2025-标记汇总.md"
+                  },
+                  "icon": "lucide-list",
+                  "title": "@The Economist-11.01.2025-标记汇总 的大纲"
+                }
+              },
+              {
+                "id": "b1a75f34ecf5ef84",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "添加笔记属性"
+                }
+              },
+              {
+                "id": "c14a577f887e3042",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "2-摘录与笔记/The Economist-4.01.2025/@The Economist-4.01.2025-标记汇总.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "@The Economist-4.01.2025-标记汇总的笔记属性"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 356,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "pdf-plus:PDF++: Toggle auto-paste": true,
+          "zk-prefixer:创建时间戳笔记": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "command-palette:打开命令面板": false,
+          "templater-obsidian:Templater": false,
+          "workspaces:管理工作区布局": false,
+          "templates:插入模板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "pdf-plus:PDF++: Toggle auto-copy": true,
+          "pdf-plus:PDF++: Toggle auto-focus": true,
+          "remotely-save:Remotely Save": false
+        }
+      },
+      "active": "cfa4fbf97afabbc4",
+      "mtime": "2025-02-01T10:27:11+08:00"
     }
   },
-  "active": "0118"
+  "active": "25.01"
 }

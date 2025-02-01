@@ -2,11 +2,13 @@
   "templater-obsidian",
   "obsidian-style-settings",
   "remotely-save",
-  "pdf-plus",
-  "obsidian-full-calendar",
   "editing-toolbar",
   "note-refactor-obsidian",
   "quick-explorer",
   "obsidian-hover-editor",
-  "obsidian-git"
+  "obsidian-git",
+  "pdf-plus",
+  "colored-tags",
+  "calendar",
+  "obsidian-emoji-toolbar"
 ]

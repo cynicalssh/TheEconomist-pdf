@@ -14,7 +14,7 @@
     },
     {
       "name": "Emoji",
-      "template": "📖"
+      "template": "📗"
     },
     {
       "name": "None",
@@ -27,27 +27,19 @@
   "copyCommands": [
     {
       "name": "Quote",
-      "template": "> ({{linkWithDisplay}})\n> {{selection}}\n"
-    },
-    {
-      "name": "Link",
-      "template": "{{linkWithDisplay}}"
-    },
-    {
-      "name": "Embed",
-      "template": "!{{link}}"
-    },
-    {
-      "name": "Callout",
-      "template": "> [!{{calloutType}}|{{color}}] {{linkWithDisplay}}\n> {{text}}\n"
-    },
-    {
-      "name": "Quote in callout",
-      "template": "> [!{{calloutType}}|{{color}}] {{linkWithDisplay}}\n> > {{text}}\n> \n> "
+      "template": "> {{selection}}\n"
     },
     {
       "name": "读书标注",
-      "template": "### {{moment().format(\"YYYYMMDD\")}}\n#{{color}} {{text}}\n{{linkWithDisplay}}\n>"
+      "template": "### {{moment().format(\"YYYYMMDD\")}}\n#{{color}} {{text}}\n{{linkWithDisplay}}\n> "
+    },
+    {
+      "name": "真题纠错",
+      "template": "### {{moment().format(\"YYYYMMDD\")}}\n#{{color}} {{text}}\n{{linkWithDisplay}}\n> 【答案】 .   错选了."
+    },
+    {
+      "name": "阅读定位",
+      "template": "{{linkWithDisplay}}"
     }
   ],
   "useAnotherCopyTemplateWhenNoSelection": false,
@@ -83,7 +75,9 @@
   "colors": {
     "生词": "#1aff71",
     "好句式": "#11cfe8",
-    "长难句": "#c84646"
+    "长难句": "#c84646",
+    "阅读理解📙": "#ffa66b",
+    "完形填空📗": "#d9c9fd"
   },
   "defaultColor": "长难句",
   "defaultColorPaletteItemIndex": 0,
@@ -101,7 +95,7 @@
   "singleMDLeafInSidebar": true,
   "alwaysUseSidebar": true,
   "ignoreExistingMarkdownTabIn": [],
-  "defaultColorPaletteActionIndex": 5,
+  "defaultColorPaletteActionIndex": 1,
   "syncColorPaletteAction": true,
   "syncDefaultColorPaletteAction": false,
   "proxyMDProperty": "PDF",
@@ -123,7 +117,7 @@
   "warnEveryAnnotationDelete": false,
   "warnBacklinkedAnnotationDelete": true,
   "enableAnnotationContentEdit": true,
-  "enableEditEncryptedPDF": true,
+  "enableEditEncryptedPDF": false,
   "pdfLinkColor": "#04a802",
   "pdfLinkBorder": false,
   "replaceContextMenu": true,
@@ -191,7 +185,7 @@
   "executeFontSizeAdjusterCommand": true,
   "closeSidebarWithShowCommandIfExist": true,
   "autoHidePDFSidebar": false,
-  "defaultSidebarView": 1,
+  "defaultSidebarView": 2,
   "outlineDrag": true,
   "outlineContextMenu": true,
   "outlineLinkDisplayTextFormat": "{{file.basename}}, {{text}}",
@@ -218,6 +212,7 @@
   "focusEditorAfterAutoPaste": true,
   "clearSelectionAfterAutoPaste": true,
   "respectCursorPositionWhenAutoPaste": false,
+  "blankLineAboveAppendedContent": true,
   "autoCopy": false,
   "autoFocus": false,
   "autoPaste": true,
@@ -281,7 +276,8 @@
   "preserveCurrentLeftOffsetWhenOpenPDFLink": false,
   "defaultZoomValue": "page-width",
   "scrollModeOnLoad": 0,
-  "spreadModeOnLoad": 1,
+  "spreadModeOnLoad": 2,
+  "usePageUpAndPageDown": true,
   "hoverableDropdownMenuInToolbar": true,
   "zoomLevelInputBoxInToolbar": true,
   "popoverPreviewOnExternalLinkHover": true,
@@ -289,8 +285,17 @@
   "enableBibInEmbed": false,
   "enableBibInHoverPopover": false,
   "enableBibInCanvas": true,
+  "citationIdPatterns": "^cite.\n^bib\\d+$",
   "copyAsSingleLine": true,
   "removeWhitespaceBetweenCJChars": true,
+  "dummyFileFolderPath": "",
+  "externalURIPatterns": [
+    ".*\\.pdf$",
+    "https://arxiv.org/pdf/.*"
+  ],
+  "modifierToDropExternalPDFToCreateDummy": [
+    "Shift"
+  ],
   "vim": false,
   "vimrcPath": "",
   "vimVisualMotion": true,

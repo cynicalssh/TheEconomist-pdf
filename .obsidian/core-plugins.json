@@ -8,7 +8,7 @@
   "outgoing-link": true,
   "tag-pane": true,
   "properties": true,
-  "page-preview": true,
+  "page-preview": false,
   "daily-notes": true,
   "templates": true,
   "note-composer": true,
@@ -17,7 +17,7 @@
   "editor-status": true,
   "bookmarks": true,
   "markdown-importer": false,
-  "zk-prefixer": false,
+  "zk-prefixer": true,
   "random-note": false,
   "outline": true,
   "word-count": true,
@@ -26,5 +26,6 @@
   "workspaces": true,
   "file-recovery": true,
   "publish": false,
-  "sync": false
+  "sync": false,
+  "webviewer": true
 }
