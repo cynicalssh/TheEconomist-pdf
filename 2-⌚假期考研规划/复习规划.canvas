@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"21a1a13bb9501bfb","type":"text","text":"专业课","x":160,"y":-160,"width":300,"height":370},
-		{"id":"f4fdcbdbc569b682","type":"file","file":"2-⌚假期考研规划/英语.md","x":-700,"y":-600,"width":420,"height":635},
-		{"id":"91f196405a0ea9d4","type":"text","text":"数学","x":-200,"y":-440,"width":280,"height":390},
-		{"id":"8aeb5f8243afedf5","type":"text","text":"# **每日复习规划**","x":-230,"y":-920,"width":310,"height":60,"color":"1"}
-	],
-	"edges":[]
-}
